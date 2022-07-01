@@ -1,7 +1,7 @@
-# ASUS-ZenBook-UX510UQ-Hackintools
-ASUS ZenBook UX510UQ
+# ASUS-ZenBook-U5100U-Hackintools
+ASUS ZenBook U5100U
 
-## 华硕ZenBook UX510UQ黑苹果EFI
+## 华硕ZenBook U5100U黑苹果EFI
 
 ## 配置
 > CPU：i5-7200U
