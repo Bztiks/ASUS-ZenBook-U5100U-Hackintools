@@ -28,5 +28,8 @@ ASUS ZenBook U5100U
  
  WIFI
 
+## 使用方法
+ 直接替换EFI下的所有文件即可
+ 
 ## 效果展示
 ![](https://github.com/Bztiks/ASUS-ZenBook-UX510UQ-Hackintools/blob/Bztik/QQ%E5%9B%BE%E7%89%8720220701215006.jpg)
